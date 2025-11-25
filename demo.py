@@ -1,1 +1,1 @@
-print("Code này được đẩy từ PyCharm lên GitHub!")
+print("Code này chỉ có ở nhánh mới, nhánh main không có!")
