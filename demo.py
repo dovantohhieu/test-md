@@ -1,1 +1,1 @@
-print("Code này chỉ có ở nhánh mới, nhánh main không có!")
+print("Đây là code của Sếp sửa trên Server")
